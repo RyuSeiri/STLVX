@@ -1,0 +1,2 @@
+ReadMe
+tmp文件下的ffmpeg.exe文件为视频截取略缩图的工具请勿删除
